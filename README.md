@@ -17,7 +17,7 @@ in Computer Science with minors in Mathematics, History, and English.
 <img alt="linux" width="20" src="https://simpleicons.vercel.app/linux/FCC624" />
 <img alt="opensuse" width="20" src="https://simpleicons.vercel.app/opensuse/73BA25" />
 <img alt="fedora" width="20" src="https://simpleicons.vercel.app/fedora/51A2DA" />
-<img alt="centos" width="20" src="https://simpleicons.vercel.app/centos/262577" />
+<img alt="centos" width="20" src="https://simpleicons.vercel.app/centos/A14F8C" />
 <img alt="redhat" width="20" src="https://simpleicons.vercel.app/redhat/EE0000" />
 <img alt="kde" width="20" src="https://simpleicons.vercel.app/kde/1D99F3" />
 <img alt="gnome" width="20" src="https://simpleicons.vercel.app/gnome/4A86CF" />
