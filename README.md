@@ -39,7 +39,6 @@ in Computer Science with minors in Mathematics, History, and English.
 ![bash](https://img.shields.io/badge/Bash-333238?logo=gnubash)
 ![c](https://img.shields.io/badge/C-333238?logo=c)
 ![python](https://img.shields.io/badge/Python-333238?logo=python)
-![python](https://img.shields.io/badge/Python-333238?logo=python)
 ![jdk](https://img.shields.io/badge/OpenJDK-333238?logo=openjdk)
 ![csharp](https://img.shields.io/badge/C%23-333238?logo=csharp)
 ![ruby](https://img.shields.io/badge/Ruby-333238?logo=ruby&logoColor=CC342D)
