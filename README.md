@@ -13,7 +13,6 @@ in Computer Science with minors in Mathematics, History, and English.
 ## 🚀 Tools & Languages
 
 <div align="center" width="50">
-
 <img alt="linux" width="20" src="https://simpleicons.vercel.app/linux/FCC624" />
 <img alt="opensuse" width="20" src="https://simpleicons.vercel.app/opensuse/73BA25" />
 <img alt="fedora" width="20" src="https://simpleicons.vercel.app/fedora/51A2DA" />
@@ -22,7 +21,9 @@ in Computer Science with minors in Mathematics, History, and English.
 <img alt="kde" width="20" src="https://simpleicons.vercel.app/kde/1D99F3" />
 <img alt="gnome" width="20" src="https://simpleicons.vercel.app/gnome/4A86CF" />
 <img alt="dwm" width="20" src="https://simpleicons.vercel.app/dwm/1177AA" />
+</div>
 
+<div align="center" width="50">
 <img alt="neovim" width="20" src="https://simpleicons.vercel.app/neovim/57A143" />
 <img alt="vim" width="20" src="https://simpleicons.vercel.app/vim/019733" />
 <img alt="emacs" width="20" src="https://simpleicons.vercel.app/gnuemacs/7F5AB6" />
@@ -31,7 +32,9 @@ in Computer Science with minors in Mathematics, History, and English.
 <img alt="androidstudio" width="20" src="https://simpleicons.vercel.app/androidstudio/3DDC84" />
 <img alt="intellij" width="20" src="https://simpleicons.vercel.app/intellijidea/000000" />
 <img alt="pycharm" width="20" src="https://simpleicons.vercel.app/pycharm/000000" />
+</div>
 
+<div align="center" width="50">
 <img alt="git" width="20" src="https://simpleicons.vercel.app/git/F05032" />
 <img alt="gitlab" width="20" src="https://simpleicons.vercel.app/gitlab/FC6D26" />
 <picture>
@@ -41,7 +44,9 @@ in Computer Science with minors in Mathematics, History, and English.
 </picture>
 <img alt="bitbucket" width="20" src="https://simpleicons.vercel.app/bitbucket/0052CC" />
 <img alt="azure" width="20" src="https://simpleicons.vercel.app/azuredevops/0078D7" />
+</div>
 
+<div align="center" width="50">
 <img alt="bash" width="20" src="https://simpleicons.vercel.app/gnubash/4EAA25" />
 <img alt="c" width="20" src="https://simpleicons.vercel.app/c/A8B9CC" />
 <img alt="python" width="20" src="https://simpleicons.vercel.app/python/3776AB" />
@@ -53,7 +58,9 @@ in Computer Science with minors in Mathematics, History, and English.
 <img alt="mssql" width="20" src="https://simpleicons.vercel.app/microsoftsqlserver/CC2927" />
 <img alt="markdown" width="20" src="https://simpleicons.vercel.app/markdown/000000" />
 <img alt="latex" width="20" src="https://simpleicons.vercel.app/latex/008080" />
+</div>
 
+<div align="center" width="50">
 <img alt="ansible" width="20" src="https://simpleicons.vercel.app/ansible/EE0000" />
 <img alt="saltstack" width="20" src="https://simpleicons.vercel.app/saltproject/57BCAD" />
 <img alt="jupyter" width="20" src="https://simpleicons.vercel.app/jupyter/F37626" />
