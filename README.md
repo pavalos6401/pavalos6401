@@ -12,94 +12,57 @@ in Computer Science with minors in Mathematics, History, and English.
 
 ## 🚀 Tools & Languages
 
-<div align="center" width="50">
-<img alt="linux" width="20" src="https://simpleicons.vercel.app/linux/FCC624" />
-<img alt="opensuse" width="20" src="https://simpleicons.vercel.app/opensuse/73BA25" />
-<img alt="fedora" width="20" src="https://simpleicons.vercel.app/fedora/51A2DA" />
-<img alt="centos" width="20" src="https://simpleicons.vercel.app/centos/A14F8C" />
-<img alt="redhat" width="20" src="https://simpleicons.vercel.app/redhat/EE0000" />
-<img alt="kde" width="20" src="https://simpleicons.vercel.app/kde/1D99F3" />
-<img alt="gnome" width="20" src="https://simpleicons.vercel.app/gnome/4A86CF" />
-<img alt="dwm" width="20" src="https://simpleicons.vercel.app/dwm/1177AA" />
-</div>
+![linux](https://img.shields.io/badge/Linux-333238?logo=linux)
+![opensuse](https://img.shields.io/badge/OpenSUSE-333238?logo=opensuse)
+![fedora](https://img.shields.io/badge/Fedora-333238?logo=fedora)
+![centos](https://img.shields.io/badge/CentOS-333238?logo=centos)
+![redhat](https://img.shields.io/badge/Red_Hat-333238?logo=redhat&logoColor=EE0000)
+![kde](https://img.shields.io/badge/KDE-333238?logo=kde)
+![gnome](https://img.shields.io/badge/Gnome-333238?logo=gnome)
+![dwm](https://img.shields.io/badge/dwm-333238?logo=dwm&logoColor=1177AA)
 
-<div align="center" width="50">
-<img alt="neovim" width="20" src="https://simpleicons.vercel.app/neovim/57A143" />
-<img alt="vim" width="20" src="https://simpleicons.vercel.app/vim/019733" />
-<img alt="emacs" width="20" src="https://simpleicons.vercel.app/gnuemacs/7F5AB6" />
-<img alt="vscodium" width="20" src="https://simpleicons.vercel.app/vscodium/2F80ED" />
-<img alt="vscode" width="20" src="https://simpleicons.vercel.app/visualstudiocode/007ACC" />
-<img alt="androidstudio" width="20" src="https://simpleicons.vercel.app/androidstudio/3DDC84" />
-<img alt="intellij" width="20" src="https://simpleicons.vercel.app/intellijidea/000000" />
-<img alt="pycharm" width="20" src="https://simpleicons.vercel.app/pycharm/000000" />
-</div>
+![neovim](https://img.shields.io/badge/Neovim-333238?logo=neovim)
+![vim](https://img.shields.io/badge/Vim-333238?logo=vim&logoColor=019733)
+![emacs](https://img.shields.io/badge/Emacs-333238?logo=gnuemacs)
+![vscodium](https://img.shields.io/badge/VSCodium-333238?logo=vscodium)
+![vscode](https://img.shields.io/badge/VS_Code-333238?logo=visualstudiocode&logoColor=007ACC)
+![android studio](https://img.shields.io/badge/Android_Studio-333238?logo=androidstudio)
+![intellij](https://img.shields.io/badge/IntelliJ_Idea-333238?logo=intellijidea)
+![pycharm](https://img.shields.io/badge/PyCharm-333238?logo=pycharm)
 
-<div align="center" width="50">
-<img alt="git" width="20" src="https://simpleicons.vercel.app/git/F05032" />
-<img alt="gitlab" width="20" src="https://simpleicons.vercel.app/gitlab/FC6D26" />
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/E6EDF3">
-<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/181717">
-<img alt="github" width="20" src="https://simpleicons.vercel.app/github/E6EDF3" />
-</picture>
-<img alt="bitbucket" width="20" src="https://simpleicons.vercel.app/bitbucket/0052CC" />
-<img alt="azure" width="20" src="https://simpleicons.vercel.app/azuredevops/0078D7" />
-</div>
+![git](https://img.shields.io/badge/Git-333238?logo=git)
+![gitlab](https://img.shields.io/badge/GitLab-333238?logo=gitlab)
+![github](https://img.shields.io/badge/GitHub-333238?logo=github)
+![bitbucket](https://img.shields.io/badge/BitBucket-333238?logo=bitbucket&logoColor=0052CC)
+![azure](https://img.shields.io/badge/Azure-333238?logo=azuredevops&logoColor=0078D7)
 
-<div align="center" width="50">
-<img alt="bash" width="20" src="https://simpleicons.vercel.app/gnubash/4EAA25" />
-<img alt="c" width="20" src="https://simpleicons.vercel.app/c/A8B9CC" />
-<img alt="python" width="20" src="https://simpleicons.vercel.app/python/3776AB" />
-<img alt="java" width="20" src="https://simpleicons.vercel.app/openjdk/FFFFFF" />
-<img alt="c#" width="20" src="https://simpleicons.vercel.app/csharp/239120" />
-<img alt="ruby" width="20" src="https://simpleicons.vercel.app/ruby/cc342d" />
-<img alt="delphi" width="20" src="https://simpleicons.vercel.app/delphi/EE1F35" />
-<img alt="mysql" width="20" src="https://simpleicons.vercel.app/mysql/4479A1" />
-<img alt="mssql" width="20" src="https://simpleicons.vercel.app/microsoftsqlserver/CC2927" />
-<img alt="markdown" width="20" src="https://simpleicons.vercel.app/markdown/000000" />
-<img alt="latex" width="20" src="https://simpleicons.vercel.app/latex/008080" />
-</div>
+![bash](https://img.shields.io/badge/Bash-333238?logo=gnubash)
+![c](https://img.shields.io/badge/C-333238?logo=c)
+![python](https://img.shields.io/badge/Python-333238?logo=python)
+![python](https://img.shields.io/badge/Python-333238?logo=python)
+![jdk](https://img.shields.io/badge/OpenJDK-333238?logo=openjdk)
+![csharp](https://img.shields.io/badge/C%23-333238?logo=csharp)
+![ruby](https://img.shields.io/badge/Ruby-333238?logo=ruby&logoColor=CC342D)
+![delphi](https://img.shields.io/badge/Delphi-333238?logo=delphi&logoColor=EE1F35)
+![mysql](https://img.shields.io/badge/MySQL-333238?logo=mysql)
+![mssql](https://img.shields.io/badge/MSSQL-333238?logo=microsoftsqlserver&logoColor=CC2927)
+![markdown](https://img.shields.io/badge/Markdown-333238?logo=markdown)
+![latex](https://img.shields.io/badge/LaTeX-333238?logo=latex&logoColor=008080)
 
-<div align="center" width="50">
-<img alt="ansible" width="20" src="https://simpleicons.vercel.app/ansible/EE0000" />
-<img alt="saltstack" width="20" src="https://simpleicons.vercel.app/saltproject/57BCAD" />
-<img alt="jupyter" width="20" src="https://simpleicons.vercel.app/jupyter/F37626" />
-<img alt="pytest" width="20" src="https://simpleicons.vercel.app/pytest/0A9EDC" />
-<img alt="flask" width="20" src="https://simpleicons.vercel.app/flask/000000" />
-<img alt="django" width="20" src="https://simpleicons.vercel.app/django/092E20" />
-<img alt="tensorflow" width="20" src="https://simpleicons.vercel.app/tensorflow/FF6F00" />
-<img alt="scikit-learn" width="20" src="https://simpleicons.vercel.app/scikitlearn/F7931E" />
-<img alt="numpy" width="20" src="https://simpleicons.vercel.app/numpy/013243" />
-</div>
+![ansible](https://img.shields.io/badge/Ansible-333238?logo=ansible&logoColor=EE0000)
+![saltstack](https://img.shields.io/badge/SaltStack-333238?logo=saltproject)
+![jupyter](https://img.shields.io/badge/Jupyter-333238?logo=jupyter)
+![pytest](https://img.shields.io/badge/pytest-333238?logo=pytest)
+![flask](https://img.shields.io/badge/flask-333238?logo=flask)
+![django](https://img.shields.io/badge/django-333238?logo=django)
+![tensorflow](https://img.shields.io/badge/TensorFlow-333238?logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-333238?logo=scikitlearn)
+![numpy](https://img.shields.io/badge/numpy-333238?logo=numpy)
 
 ## 📪 Where to find me
 
-<div align="center" width="50">
-<a href="https://www.gitlab.com/pavalos6401/">
-<img alt="pavalos6401" width="50" src="https://simpleicons.vercel.app/gitlab/FC6D26" />
-</a>
-&nbsp;
-<a href="https://www.github.com/pavalos6401/">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/E6EDF3">
-<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/181717">
-<img alt="pavalos6401" width="50" src="https://simpleicons.vercel.app/github/E6EDF3" />
-</picture>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/pavalos6401/">
-<img alt="/in/pavalos6401" width="50" src="https://simpleicons.vercel.app/linkedin/0A66C2" />
-</a>
-&nbsp;
-<a href="https://mastodon.social/@pavalos">
-<img alt="@pavalos@mastodon.social" width="50" src="https://simpleicons.vercel.app/mastodon/6364FF" />
-</a>
-&nbsp;
-<a href="https://matrix.to/#/@pavalos:matrix.org">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/matrix/FFFFFF">
-<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/matrix/000000">
-<img alt="@pavalos@matrix.org" width="50" src="https://simpleicons.vercel.app/matrix/FFFFFF" />
-</picture>
-</a>
-</div>
+[![gitlab](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=gitlab)](https://gitlab.com/pavalos604)
+[![github](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=github)](https://github.com/pavalos6401)
+[![linkedin](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=linkedin)](https://linkedin.com/in/pavalos6401)
+[![mastodon](https://img.shields.io/badge/@pavalos@mastodon.social-333238?style=social&logo=mastodon)](https://mastodon.social/@pavalos)
+[![matrix](https://img.shields.io/badge/@pavalos:matrix.org-333238?style=social&logo=matrix)](https://matrix.to/#/@pavalos:matrix.org)
