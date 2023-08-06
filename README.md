@@ -34,7 +34,11 @@ in Computer Science with minors in Mathematics, History, and English.
 
 <img alt="git" width="20" src="https://simpleicons.vercel.app/git/F05032" />
 <img alt="gitlab" width="20" src="https://simpleicons.vercel.app/gitlab/FC6D26" />
-<img alt="github" width="20" src="https://simpleicons.vercel.app/github/181717" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/E6EDF3">
+<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/181717">
+<img alt="github" width="20" src="https://simpleicons.vercel.app/github/E6EDF3" />
+</picture>
 <img alt="bitbucket" width="20" src="https://simpleicons.vercel.app/bitbucket/0052CC" />
 <img alt="azure" width="20" src="https://simpleicons.vercel.app/azuredevops/0078D7" />
 
@@ -69,18 +73,26 @@ in Computer Science with minors in Mathematics, History, and English.
 </a>
 &nbsp;
 <a href="https://www.github.com/pavalos6401/">
-<img alt="pavalos6401" width="50" src="https://simpleicons.vercel.app/github/181717" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/github/E6EDF3">
+<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/github/181717">
+<img alt="pavalos6401" width="50" src="https://simpleicons.vercel.app/github/E6EDF3" />
+</picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/pavalos6401/">
 <img alt="/in/pavalos6401" width="50" src="https://simpleicons.vercel.app/linkedin/0A66C2" />
 </a>
 &nbsp;
-<a href="https://mastodon.social/invite/uKqHV7eA">
+<a href="https://mastodon.social/@pavalos">
 <img alt="@pavalos@mastodon.social" width="50" src="https://simpleicons.vercel.app/mastodon/6364FF" />
 </a>
 &nbsp;
 <a href="https://matrix.to/#/@pavalos:matrix.org">
-<img alt="@pavalos@matrix.org" width="50" src="https://simpleicons.vercel.app/matrix/000000" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://simpleicons.vercel.app/matrix/FFFFFF">
+<source media="(prefers-color-scheme: light)" srcset="https://simpleicons.vercel.app/matrix/000000">
+<img alt="@pavalos@matrix.org" width="50" src="https://simpleicons.vercel.app/matrix/FFFFFF" />
+</picture>
 </a>
 </div>
