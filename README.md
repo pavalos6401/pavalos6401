@@ -60,8 +60,8 @@ in Computer Science with minors in Mathematics, History, and English.
 
 ## 📪 Where to find me
 
-[![gitlab](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=gitlab)](https://gitlab.com/pavalos6401)
-[![github](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=github)](https://github.com/pavalos6401)
-[![linkedin](https://img.shields.io/badge/pavalos6401-333238?style=social&logo=linkedin)](https://linkedin.com/in/pavalos6401)
+[![gitlab](https://img.shields.io/badge/pedro--avalos-333238?style=social&logo=gitlab)](https://gitlab.com/pedro-avalos)
+[![github](https://img.shields.io/badge/pedro--avalos-333238?style=social&logo=github)](https://github.com/pedro-avalos)
+[![linkedin](https://img.shields.io/badge/pedro--avalos-333238?style=social&logo=linkedin)](https://linkedin.com/in/pedro-avalos)
 [![mastodon](https://img.shields.io/badge/@pavalos@mastodon.social-333238?style=social&logo=mastodon)](https://mastodon.social/@pavalos)
 [![matrix](https://img.shields.io/badge/@pavalos:matrix.org-333238?style=social&logo=matrix)](https://matrix.to/#/@pavalos:matrix.org)
