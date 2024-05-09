@@ -2,7 +2,7 @@
 
 ## 👋 ¡Hola!
 
-My name is Pedro Avalos. I'm a developer. I graduated fromWheaton College (IL)
+My name is Pedro Avalos. I'm a developer. I graduated from Wheaton College (IL)
 with a major in Computer Science and minors in Mathematics, History, and
 English.
 
