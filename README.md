@@ -2,8 +2,9 @@
 
 ## 👋 ¡Hola!
 
-My name is Pedro Avalos. I'm a student at Wheaton College (IL) majoring
-in Computer Science with minors in Mathematics, History, and English.
+My name is Pedro Avalos. I'm a developer. I graduated fromWheaton College (IL)
+with a major in Computer Science and minors in Mathematics, History, and
+English.
 
 - Interests: Cybersecurity, systems, networking, and machine learning
 - Hobbies: Reading, writing, and coding
@@ -13,16 +14,18 @@ in Computer Science with minors in Mathematics, History, and English.
 ## 🚀 Tools & Languages
 
 ![linux](https://img.shields.io/badge/Linux-333238?logo=linux)
+![ubuntu](https://img.shields.io/badge/Ubuntu-333238?logo=ubuntu)
+![debian](https://img.shields.io/badge/Debian-333238?logo=debian)
 ![opensuse](https://img.shields.io/badge/OpenSUSE-333238?logo=opensuse)
 ![fedora](https://img.shields.io/badge/Fedora-333238?logo=fedora)
 ![centos](https://img.shields.io/badge/CentOS-333238?logo=centos)
 ![redhat](https://img.shields.io/badge/Red_Hat-333238?logo=redhat&logoColor=EE0000)
-![kde](https://img.shields.io/badge/KDE-333238?logo=kde)
 ![gnome](https://img.shields.io/badge/Gnome-333238?logo=gnome)
+![kde](https://img.shields.io/badge/KDE-333238?logo=kde)
 ![dwm](https://img.shields.io/badge/dwm-333238?logo=dwm&logoColor=1177AA)
 
-![neovim](https://img.shields.io/badge/Neovim-333238?logo=neovim)
 ![vim](https://img.shields.io/badge/Vim-333238?logo=vim&logoColor=019733)
+![neovim](https://img.shields.io/badge/Neovim-333238?logo=neovim)
 ![emacs](https://img.shields.io/badge/Emacs-333238?logo=gnuemacs)
 ![vscodium](https://img.shields.io/badge/VSCodium-333238?logo=vscodium)
 ![vscode](https://img.shields.io/badge/VS_Code-333238?logo=visualstudiocode&logoColor=007ACC)
@@ -59,6 +62,8 @@ in Computer Science with minors in Mathematics, History, and English.
 ![numpy](https://img.shields.io/badge/numpy-333238?logo=numpy)
 
 ## 📪 Where to find me
+
+[![links](https://img.shields.io/badge/links%20site-333238?style=for-the-badge&link=https%3A%2F%2Flinks.pavalos.xyz)](https://links.pavalos.xyz)
 
 [![gitlab](https://img.shields.io/badge/pedro--avalos-333238?style=social&logo=gitlab)](https://gitlab.com/pedro-avalos)
 [![github](https://img.shields.io/badge/pedro--avalos-333238?style=social&logo=github)](https://github.com/pedro-avalos)
